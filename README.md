@@ -24,11 +24,15 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="FlixsterPartTwo.gif" width=250><br>
+
+GIF created with LiceCap.
+
 
 ### Notes
 
-For display purposes, 'popular movies' are set to anything with a rating of 7.5 stars or greater since all the movies currently are over 5 stars.
+**For display purposes, 'popular movies' are set to anything with a rating of 7.5 stars or greater since all the movies currently are over 5 stars.**
+Some of the API calls were really slow so i just cut out the waiting around in the gif.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
